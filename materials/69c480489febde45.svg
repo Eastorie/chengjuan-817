@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250">
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#1f2937"/>
+  </marker>
+  <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#2563eb"/>
+  </marker>
+  <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#dc2626"/>
+  </marker>
+  <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#059669"/>
+  </marker>
+</defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="290.0" y="24.0" fill="#111827" font-size="15" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">金属晶格热振动散射截面 S = πa² 与电子平均自由程 l 示意图</text>
+<rect x="135.0" y="78.0" width="300.0" height="104.0" rx="0" fill="rgba(37,99,235,0.08)" stroke="none" stroke-width="1.4"/>
+<line x1="135.0" y1="78.0" x2="435.0" y2="78.0" stroke="#2563eb" stroke-width="1.8"/>
+<line x1="135.0" y1="182.0" x2="435.0" y2="182.0" stroke="#2563eb" stroke-width="1.8"/>
+<ellipse cx="135" cy="130" rx="22" ry="52" fill="rgba(37,99,235,0.18)" stroke="#2563eb" stroke-width="2"/>
+<ellipse cx="435" cy="130" rx="22" ry="52" fill="rgba(220,38,38,0.15)" stroke="#dc2626" stroke-width="2"/>
+<circle cx="65.0" cy="130.0" r="6.5" fill="#1e40af" stroke="#ffffff" stroke-width="1.2"/>
+<text x="65.0" y="118.0" fill="#1e40af" font-size="13" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">e⁻</text>
+<line x1="75.0" y1="130.0" x2="425.0" y2="130.0" stroke="#1e40af" stroke-width="2.0" stroke-dasharray="5 3" marker-end="url(#arrow-blue)"/>
+<circle cx="435.0" cy="130.0" r="10.0" fill="#dc2626" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="435.0" y1="130.0" x2="435.0" y2="78.0" stroke="#dc2626" stroke-width="1.8" marker-end="url(#arrow-red)"/>
+<text x="463.0" y="108.0" fill="#dc2626" font-size="12.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">热振幅 a</text>
+<text x="447.0" y="204.0" fill="#dc2626" font-size="12.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">散射截面 S = πa²</text>
+<line x1="135.0" y1="207.0" x2="435.0" y2="207.0" stroke="#111827" stroke-width="1.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<text x="285.0" y="226.0" fill="#111827" font-size="12.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">平均自由程 l = u·τ （圆柱体积 V = πa²l 内含 1 个散射原子，N_s·πa²l = 1）</text>
+
+</svg>

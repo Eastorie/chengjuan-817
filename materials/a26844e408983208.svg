@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="265" viewBox="0 0 680 265">
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#1f2937"/>
+  </marker>
+  <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#2563eb"/>
+  </marker>
+  <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#dc2626"/>
+  </marker>
+  <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#059669"/>
+  </marker>
+</defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="340.0" y="24.0" fill="#111827" font-size="14.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">晶体线缺陷：(a) 刃型位错 (b ⊥ t) 与 (b) 螺型位错 (b ∥ t) 晶格畸变对比</text>
+<rect x="35.0" y="42.0" width="295.0" height="205.0" rx="4" fill="#fafafa" stroke="#cbd5e1" stroke-width="1.2"/>
+<text x="182.0" y="62.0" fill="#111827" font-size="12.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">(a) 刃型位错：上半晶格多插入半原子面</text>
+<circle cx="80.0" cy="88.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="80.0" y1="88.0" x2="120.0" y2="88.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="120.0" cy="88.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="120.0" y1="88.0" x2="160.0" y2="88.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="160.0" cy="88.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="160.0" y1="88.0" x2="200.0" y2="88.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="200.0" cy="88.0" r="5.2" fill="#dc2626" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="200.0" y1="88.0" x2="240.0" y2="88.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="240.0" cy="88.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="240.0" y1="88.0" x2="280.0" y2="88.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="280.0" cy="88.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<circle cx="80.0" cy="120.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="80.0" y1="120.0" x2="120.0" y2="120.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="120.0" cy="120.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="120.0" y1="120.0" x2="160.0" y2="120.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="160.0" cy="120.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="160.0" y1="120.0" x2="200.0" y2="120.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="200.0" cy="120.0" r="5.2" fill="#dc2626" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="200.0" y1="120.0" x2="240.0" y2="120.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="240.0" cy="120.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="240.0" y1="120.0" x2="280.0" y2="120.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="280.0" cy="120.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<circle cx="80.0" cy="152.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="80.0" y1="152.0" x2="120.0" y2="152.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="120.0" cy="152.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="120.0" y1="152.0" x2="160.0" y2="152.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="160.0" cy="152.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="160.0" y1="152.0" x2="200.0" y2="152.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="200.0" cy="152.0" r="5.2" fill="#dc2626" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="200.0" y1="152.0" x2="240.0" y2="152.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="240.0" cy="152.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="240.0" y1="152.0" x2="280.0" y2="152.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="280.0" cy="152.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<circle cx="80.0" cy="188.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="80.0" y1="188.0" x2="130.0" y2="188.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="130.0" cy="188.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="130.0" y1="188.0" x2="180.0" y2="188.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="180.0" cy="188.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="180.0" y1="188.0" x2="230.0" y2="188.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="230.0" cy="188.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="230.0" y1="188.0" x2="280.0" y2="188.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="280.0" cy="188.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<circle cx="80.0" cy="220.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="80.0" y1="220.0" x2="130.0" y2="220.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="130.0" cy="220.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="130.0" y1="220.0" x2="180.0" y2="220.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="180.0" cy="220.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="180.0" y1="220.0" x2="230.0" y2="220.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="230.0" cy="220.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<line x1="230.0" y1="220.0" x2="280.0" y2="220.0" stroke="#94a3b8" stroke-width="1.2"/>
+<circle cx="280.0" cy="220.0" r="5.2" fill="#2563eb" stroke="#ffffff" stroke-width="1.2"/>
+<text x="200.0" y="173.0" fill="#dc2626" font-size="18" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">⊥</text>
+<line x1="145.0" y1="235.0" x2="220.0" y2="235.0" stroke="#dc2626" stroke-width="2.0" marker-end="url(#arrow-red)"/>
+<text x="255.0" y="238.0" fill="#dc2626" font-size="11.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">柏氏矢量 b ⊥ t</text>
+<rect x="355.0" y="42.0" width="295.0" height="205.0" rx="4" fill="#fafafa" stroke="#cbd5e1" stroke-width="1.2"/>
+<text x="502.0" y="62.0" fill="#111827" font-size="12.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">(b) 螺型位错：晶面沿位错线螺旋错移</text>
+<polygon points="400.0,125.0 495.0,90.0 605.0,90.0 525.0,125.0" stroke="#334155" fill="#e2e8f0" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="400.0,125.0 500.0,125.0 500.0,195.0 400.0,195.0" stroke="#334155" fill="#f8fafc" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="500.0,145.0 600.0,145.0 600.0,215.0 500.0,215.0" stroke="#334155" fill="#eff6ff" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="500.0" y1="125.0" x2="500.0" y2="145.0" stroke="#dc2626" stroke-width="2.8"/>
+<line x1="500.0" y1="125.0" x2="555.0" y2="102.0" stroke="#059669" stroke-width="2.2" stroke-dasharray="4 2" marker-end="url(#arrow-green)"/>
+<line x1="485.0" y1="142.0" x2="520.0" y2="126.0" stroke="#dc2626" stroke-width="2.2" marker-end="url(#arrow-red)"/>
+<text x="575.0" y="118.0" fill="#059669" font-size="11.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">位错线方向 t</text>
+<text x="502.0" y="236.0" fill="#dc2626" font-size="11.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">螺旋滑移台阶：柏氏矢量 b ∥ 位错线 t</text>
+
+</svg>

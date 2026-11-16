@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="280" viewBox="0 0 520 280">
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#1f2937"/>
+  </marker>
+  <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#2563eb"/>
+  </marker>
+  <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#dc2626"/>
+  </marker>
+  <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#059669"/>
+  </marker>
+</defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="260.0" y="26.0" fill="#111827" font-size="15" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">一维无限深方势阱中的定态波函数 ψ(x)</text>
+<line x1="82.0" y1="60.0" x2="100.0" y2="50.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="50.0" x2="438.0" y2="60.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="72.0" x2="100.0" y2="62.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="62.0" x2="438.0" y2="72.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="84.0" x2="100.0" y2="74.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="74.0" x2="438.0" y2="84.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="96.0" x2="100.0" y2="86.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="86.0" x2="438.0" y2="96.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="108.0" x2="100.0" y2="98.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="98.0" x2="438.0" y2="108.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="120.0" x2="100.0" y2="110.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="110.0" x2="438.0" y2="120.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="132.0" x2="100.0" y2="122.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="122.0" x2="438.0" y2="132.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="144.0" x2="100.0" y2="134.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="134.0" x2="438.0" y2="144.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="156.0" x2="100.0" y2="146.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="146.0" x2="438.0" y2="156.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="168.0" x2="100.0" y2="158.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="158.0" x2="438.0" y2="168.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="180.0" x2="100.0" y2="170.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="170.0" x2="438.0" y2="180.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="192.0" x2="100.0" y2="182.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="182.0" x2="438.0" y2="192.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="204.0" x2="100.0" y2="194.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="194.0" x2="438.0" y2="204.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="216.0" x2="100.0" y2="206.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="206.0" x2="438.0" y2="216.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="82.0" y1="228.0" x2="100.0" y2="218.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="420.0" y1="218.0" x2="438.0" y2="228.0" stroke="#9ca3af" stroke-width="1.2"/>
+<line x1="100.0" y1="42.0" x2="100.0" y2="230.0" stroke="#111827" stroke-width="2.4"/>
+<line x1="420.0" y1="42.0" x2="420.0" y2="230.0" stroke="#111827" stroke-width="2.4"/>
+<line x1="70.0" y1="225.0" x2="465.0" y2="225.0" stroke="#111827" stroke-width="1.8" marker-end="url(#arrow)"/>
+<line x1="100.0" y1="137.5" x2="420.0" y2="137.5" stroke="#6b7280" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="72.0" y="65.0" fill="#374151" font-size="13" font-weight="normal" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="">V = ∞</text>
+<text x="452.0" y="65.0" fill="#374151" font-size="13" font-weight="normal" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="">V = ∞</text>
+<text x="260.0" y="215.0" fill="#4b5563" font-size="13" font-weight="normal" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="">V(x) = 0</text>
+<text x="100.0" y="245.0" fill="#111827" font-size="14" font-weight="normal" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="">0</text>
+<text x="420.0" y="245.0" fill="#111827" font-size="14" font-weight="normal" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="font-style:italic;">a</text>
+<text x="468.0" y="243.0" fill="#111827" font-size="15" font-weight="bold" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="font-style:italic;">x</text>
+<polyline points="100.0,137.5 101.6,133.6 103.2,129.7 104.8,125.9 106.4,122.1 108.0,118.3 109.6,114.7 111.2,111.1 112.8,107.6 114.4,104.3 116.0,101.1 117.6,98.0 119.2,95.1 120.8,92.3 122.4,89.7 124.0,87.3 125.6,85.2 127.2,83.2 128.8,81.4 130.4,79.9 132.0,78.5 133.6,77.4 135.2,76.6 136.8,76.0 138.4,75.6 140.0,75.5 141.6,75.6 143.2,76.0 144.8,76.6 146.4,77.4 148.0,78.5 149.6,79.9 151.2,81.4 152.8,83.2 154.4,85.2 156.0,87.3 157.6,89.7 159.2,92.3 160.8,95.1 162.4,98.0 164.0,101.1 165.6,104.3 167.2,107.6 168.8,111.1 170.4,114.7 172.0,118.3 173.6,122.1 175.2,125.9 176.8,129.7 178.4,133.6 180.0,137.5 181.6,141.4 183.2,145.3 184.8,149.1 186.4,152.9 188.0,156.7 189.6,160.3 191.2,163.9 192.8,167.4 194.4,170.7 196.0,173.9 197.6,177.0 199.2,179.9 200.8,182.7 202.4,185.3 204.0,187.7 205.6,189.8 207.2,191.8 208.8,193.6 210.4,195.1 212.0,196.5 213.6,197.6 215.2,198.4 216.8,199.0 218.4,199.4 220.0,199.5 221.6,199.4 223.2,199.0 224.8,198.4 226.4,197.6 228.0,196.5 229.6,195.1 231.2,193.6 232.8,191.8 234.4,189.8 236.0,187.7 237.6,185.3 239.2,182.7 240.8,179.9 242.4,177.0 244.0,173.9 245.6,170.7 247.2,167.4 248.8,163.9 250.4,160.3 252.0,156.7 253.6,152.9 255.2,149.1 256.8,145.3 258.4,141.4 260.0,137.5 261.6,133.6 263.2,129.7 264.8,125.9 266.4,122.1 268.0,118.3 269.6,114.7 271.2,111.1 272.8,107.6 274.4,104.3 276.0,101.1 277.6,98.0 279.2,95.1 280.8,92.3 282.4,89.7 284.0,87.3 285.6,85.2 287.2,83.2 288.8,81.4 290.4,79.9 292.0,78.5 293.6,77.4 295.2,76.6 296.8,76.0 298.4,75.6 300.0,75.5 301.6,75.6 303.2,76.0 304.8,76.6 306.4,77.4 308.0,78.5 309.6,79.9 311.2,81.4 312.8,83.2 314.4,85.2 316.0,87.3 317.6,89.7 319.2,92.3 320.8,95.1 322.4,98.0 324.0,101.1 325.6,104.3 327.2,107.6 328.8,111.1 330.4,114.7 332.0,118.3 333.6,122.1 335.2,125.9 336.8,129.7 338.4,133.6 340.0,137.5 341.6,141.4 343.2,145.3 344.8,149.1 346.4,152.9 348.0,156.7 349.6,160.3 351.2,163.9 352.8,167.4 354.4,170.7 356.0,173.9 357.6,177.0 359.2,179.9 360.8,182.7 362.4,185.3 364.0,187.7 365.6,189.8 367.2,191.8 368.8,193.6 370.4,195.1 372.0,196.5 373.6,197.6 375.2,198.4 376.8,199.0 378.4,199.4 380.0,199.5 381.6,199.4 383.2,199.0 384.8,198.4 386.4,197.6 388.0,196.5 389.6,195.1 391.2,193.6 392.8,191.8 394.4,189.8 396.0,187.7 397.6,185.3 399.2,182.7 400.8,179.9 402.4,177.0 404.0,173.9 405.6,170.7 407.2,167.4 408.8,163.9 410.4,160.3 412.0,156.7 413.6,152.9 415.2,149.1 416.8,145.3 418.4,141.4 420.0,137.5" stroke="#2563eb" fill="none" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="180.0" cy="137.5" r="4.0" fill="#dc2626" stroke="#ffffff" stroke-width="1.2"/>
+<text x="180.0" y="245.0" fill="#4b5563" font-size="12" font-weight="normal" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="">1a/4</text>
+<circle cx="260.0" cy="137.5" r="4.0" fill="#dc2626" stroke="#ffffff" stroke-width="1.2"/>
+<text x="260.0" y="245.0" fill="#4b5563" font-size="12" font-weight="normal" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="">a/2</text>
+<circle cx="340.0" cy="137.5" r="4.0" fill="#dc2626" stroke="#ffffff" stroke-width="1.2"/>
+<text x="340.0" y="245.0" fill="#4b5563" font-size="12" font-weight="normal" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="">3a/4</text>
+<text x="142.0" y="69.5" fill="#2563eb" font-size="14" font-weight="bold" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="font-style:italic;">ψ(x)</text>
+
+</svg>

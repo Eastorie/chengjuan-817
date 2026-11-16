@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="270" viewBox="0 0 680 270">
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#1f2937"/>
+  </marker>
+  <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#2563eb"/>
+  </marker>
+  <marker id="arrow-red" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#dc2626"/>
+  </marker>
+  <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#059669"/>
+  </marker>
+</defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="340.0" y="24.0" fill="#111827" font-size="14.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">第一布里渊区 (−π/a ≤ k ≤ π/a) 内能带色散 E(k) 与有效质量 m* 符号变化图</text>
+<line x1="55.0" y1="225.0" x2="315.0" y2="225.0" stroke="#111827" stroke-width="1.6" marker-end="url(#arrow)"/>
+<line x1="185.0" y1="235.0" x2="185.0" y2="55.0" stroke="#111827" stroke-width="1.6" marker-end="url(#arrow)"/>
+<line x1="75.0" y1="225.0" x2="75.0" y2="65.0" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="295.0" y1="225.0" x2="295.0" y2="65.0" stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4 3"/>
+<polyline points="75.0,75.0 77.2,75.1 79.4,75.5 81.6,76.2 83.8,77.0 86.0,78.2 88.2,79.6 90.4,81.2 92.6,83.0 94.8,85.1 97.0,87.4 99.2,89.9 101.4,92.6 103.6,95.5 105.8,98.6 108.0,101.8 110.2,105.2 112.4,108.7 114.6,112.3 116.8,116.1 119.0,119.9 121.2,123.8 123.4,127.8 125.6,131.9 127.8,135.9 130.0,140.0 132.2,144.1 134.4,148.1 136.6,152.2 138.8,156.2 141.0,160.1 143.2,163.9 145.4,167.7 147.6,171.3 149.8,174.8 152.0,178.2 154.2,181.4 156.4,184.5 158.6,187.4 160.8,190.1 163.0,192.6 165.2,194.9 167.4,197.0 169.6,198.8 171.8,200.4 174.0,201.8 176.2,203.0 178.4,203.8 180.6,204.5 182.8,204.9 185.0,205.0 187.2,204.9 189.4,204.5 191.6,203.8 193.8,203.0 196.0,201.8 198.2,200.4 200.4,198.8 202.6,197.0 204.8,194.9 207.0,192.6 209.2,190.1 211.4,187.4 213.6,184.5 215.8,181.4 218.0,178.2 220.2,174.8 222.4,171.3 224.6,167.7 226.8,163.9 229.0,160.1 231.2,156.2 233.4,152.2 235.6,148.1 237.8,144.1 240.0,140.0 242.2,135.9 244.4,131.9 246.6,127.8 248.8,123.8 251.0,119.9 253.2,116.1 255.4,112.3 257.6,108.7 259.8,105.2 262.0,101.8 264.2,98.6 266.4,95.5 268.6,92.6 270.8,89.9 273.0,87.4 275.2,85.1 277.4,83.0 279.6,81.2 281.8,79.6 284.0,78.2 286.2,77.0 288.4,76.2 290.6,75.5 292.8,75.1 295.0,75.0" stroke="#2563eb" fill="none" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="130.0" cy="140.0" r="4.0" fill="#dc2626" stroke="#ffffff" stroke-width="1.2"/>
+<circle cx="240.0" cy="140.0" r="4.0" fill="#dc2626" stroke="#ffffff" stroke-width="1.2"/>
+<text x="75.0" y="243.0" fill="#111827" font-size="12" font-weight="normal" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="">−π/a</text>
+<text x="191.0" y="243.0" fill="#111827" font-size="12" font-weight="normal" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">0</text>
+<text x="295.0" y="243.0" fill="#111827" font-size="12" font-weight="normal" text-anchor="middle" font-family='"Times New Roman", "STIXGeneral", "Songti SC", serif' style="">+π/a</text>
+<text x="185.0" y="252.0" fill="#111827" font-size="12" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">(a) E(k)：带底曲率 &gt; 0，带顶曲率 &lt; 0</text>
+<line x1="375.0" y1="140.0" x2="635.0" y2="140.0" stroke="#111827" stroke-width="1.6" marker-end="url(#arrow)"/>
+<line x1="505.0" y1="225.0" x2="505.0" y2="55.0" stroke="#111827" stroke-width="1.6" marker-end="url(#arrow)"/>
+<line x1="450.0" y1="63.0" x2="450.0" y2="217.0" stroke="#dc2626" stroke-width="1.3" stroke-dasharray="4 3"/>
+<line x1="560.0" y1="63.0" x2="560.0" y2="217.0" stroke="#dc2626" stroke-width="1.3" stroke-dasharray="4 3"/>
+<polyline points="458.8,35.5 461.1,56.7 463.4,70.5 465.7,80.1 468.0,87.2 470.4,92.6 472.7,96.9 475.0,100.3 477.3,103.0 479.6,105.2 481.9,107.1 484.2,108.6 486.5,109.9 488.8,111.0 491.1,111.8 493.4,112.5 495.8,113.1 498.1,113.5 500.4,113.8 502.7,113.9 505.0,114.0 507.3,113.9 509.6,113.8 511.9,113.5 514.2,113.1 516.5,112.5 518.9,111.8 521.2,111.0 523.5,109.9 525.8,108.6 528.1,107.1 530.4,105.2 532.7,103.0 535.0,100.3 537.3,96.9 539.6,92.6 542.0,87.2 544.3,80.1 546.6,70.5 548.9,56.7 551.2,35.5" stroke="#059669" fill="none" stroke-width="2.3" stroke-linejoin="round"/>
+<polyline points="441.2,244.5 439.8,230.9 438.5,220.5 437.1,212.3 435.8,205.7 434.4,200.4 433.0,195.9 431.7,192.1 430.3,188.8 429.0,186.0 427.6,183.6 426.3,181.4 424.9,179.6 423.5,177.9 422.2,176.4 420.8,175.1 419.5,174.0 418.1,172.9 416.7,172.0 415.4,171.1 414.0,170.4 412.7,169.7 411.3,169.1 409.9,168.6 408.6,168.1 407.2,167.7 405.9,167.3 404.5,167.0 403.2,166.7 401.8,166.5 400.4,166.3 399.1,166.2 397.7,166.1 396.4,166.0 395.0,166.0" stroke="#dc2626" fill="none" stroke-width="2.3" stroke-linejoin="round"/>
+<polyline points="568.8,244.5 570.2,230.9 571.5,220.5 572.9,212.3 574.2,205.7 575.6,200.4 577.0,195.9 578.3,192.1 579.7,188.8 581.0,186.0 582.4,183.6 583.7,181.4 585.1,179.6 586.5,177.9 587.8,176.4 589.2,175.1 590.5,174.0 591.9,172.9 593.3,172.0 594.6,171.1 596.0,170.4 597.3,169.7 598.7,169.1 600.1,168.6 601.4,168.1 602.8,167.7 604.1,167.3 605.5,167.0 606.8,166.7 608.2,166.5 609.6,166.3 610.9,166.2 612.3,166.1 613.6,166.0 615.0,166.0" stroke="#dc2626" fill="none" stroke-width="2.3" stroke-linejoin="round"/>
+<text x="505.0" y="98.0" fill="#059669" font-size="11.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">带底 m* &gt; 0 (电子)</text>
+<text x="587.0" y="198.0" fill="#dc2626" font-size="11.5" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">带顶 m* &lt; 0 (空穴)</text>
+<text x="505.0" y="252.0" fill="#111827" font-size="12" font-weight="bold" text-anchor="middle" font-family='"PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif' style="">(b) m* = ℏ² / (d²E/dk²) 随波矢 k 的变化</text>
+
+</svg>
